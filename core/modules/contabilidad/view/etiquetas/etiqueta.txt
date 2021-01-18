@@ -1,0 +1,9 @@
+Codigo,Nombre,Cantidad,Talla,Color,Precio
+291,Vestido volado tachas,5,S,Azul,$149.900
+291,Vestido volado tachas,5,S,Azul,$149.900
+291,Vestido volado tachas,5,S,Azul,$149.900
+291,Vestido volado tachas,5,S,Azul,$149.900
+291,Vestido volado tachas,5,S,Azul,$149.900
+292,Vestido volado tachas,3,M,Azul,$149.900
+292,Vestido volado tachas,3,M,Azul,$149.900
+292,Vestido volado tachas,3,M,Azul,$149.900

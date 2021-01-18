@@ -1,0 +1,8 @@
+Codigo,Nombre,Cantidad,Talla,Color,Precio
+1889,talego sunshine,1,Variada,estampado,$149.000
+1889,talego sunshine,1,Variada,estampado,$149.000
+1889,talego sunshine,1,Variada,estampado,$149.000
+1897,vestido dubai,1,S,estampado,$144.000
+1898,vestido dubai,1,M,estampado,$144.000
+1898,vestido dubai,1,M,estampado,$144.000
+1830,vestido flores,1,Variada,Variado,$144.000
